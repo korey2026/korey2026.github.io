@@ -31,14 +31,14 @@ $(function () {
 // toggleGrid();
 
     // TODO 2 - Create Platforms
-createPlatform(1000, 400, 100, 20, "white")
-createPlatform(1200, 600, 100, 20, "red")
-createPlatform(200,  500, 100, 20, "white")
-createPlatform(100,  200, 100, 20, "red")
-createPlatform(700,  300, 50, 20, "white")
-createPlatform(1350, 300, 100, 50, "red")
-createPlatform(700,  700, 100, 20, "white")
-createPlatform(800,  100, 100, 20, "red")
+createPlatform(1000, 400, 100, 20, "white");
+createPlatform(1200, 600, 100, 20, "red");
+createPlatform(200,  500, 100, 20, "white");
+createPlatform(100,  200, 100, 20, "red");
+createPlatform(700,  300, 50, 20, "white");
+createPlatform(1350, 300, 100, 50, "red");
+createPlatform(700,  700, 100, 20, "white");
+createPlatform(800,  100, 100, 20, "red");
 
 
 
